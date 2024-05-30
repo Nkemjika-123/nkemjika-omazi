@@ -18,3 +18,6 @@ The **Ask A Manager Salary Survey Analysis** project aims to provide valuable in
 
 + Support Decision Making: Provide actionable insights that can aid organizations in developing fair and competitive compensation strategies.
 
+  ## Data Source
+The data used for this project was from [HERE](https://docs.google.com/spreadsheets/d/1vB5eAhH_93EKUyu-AQHQ68S3ULsEMO3zqkEf1LmIuoU/edit#gid=1625408792)
+
