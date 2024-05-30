@@ -63,3 +63,8 @@ To prepare dataset for analysis, the data was opened in Excel. This dataset was 
 2. I also added some slicers to be able to easily check correlation between "**Race**" and "**Education**" with "**Salary**"
 
    ![Ask A ManagerSalarySurvey1](https://github.com/Nkemjika-123/nkemjika-omazi/assets/152037119/8571a7f8-0735-41c3-80cf-cfd0994d3d22)
+
+###
+You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
+
+## Insights and Recommendations
