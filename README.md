@@ -47,4 +47,15 @@ Total Work Experience vs. Field-Specific Experience:
 + Explore how this balance correlates with salary.
 
 ## Data Preparation and Transformation
-To prepare dataset for analysis, SQL was used 
+To prepare dataset for analysis, the data was opened in Excel. This dataset was extremely dirty and so the Data cleaning was done in excel and power query. Detailed steps are below:
+ 1.	Renamed all the columns to the appropriate names eg **What country do you work in? was renamed to “Country”**
+ 2.	Changed all the countries to a standard name eg **United States, America etc was renamed to US**
+ 3.	Values in Industry column was modified to a general name eg **Education (Higher Education) was modified to Education, 
+      Everything under academic and academia was modified to academia**   
+ 4.	In the gender column, I modified all the **“Other or prefer not to answer” to “Prefer not to answer”**
+ 5.	I modified the race column to “**Race Type**” and named all those that belong to one race “**monoracial**”, those that belong 
+      to two races, “**biracial**” and those that belong to two or more “**multiracial**”
+ 6.	I also put N/A in all the blanks and removed duplicated
+ 7.	At the end of the data cleaning I had 27832 rows and 15 columns
+
+
