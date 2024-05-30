@@ -1,2 +1,2 @@
 # ASK A MANAGER SALARY SURVEY ANALYSIS 
-### You can interact with the report [HERE](https://app.powerbi.com/view?r=eyJrIjoiZjIwZGQ4YmMtZDc5NC00YjFlLWEyMWItYTJjMDBkZDhkZWRiIiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
+### You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
