@@ -53,9 +53,13 @@ To prepare dataset for analysis, the data was opened in Excel. This dataset was 
  3.	Values in Industry column was modified to a general name eg **Education (Higher Education) was modified to Education, 
       Everything under academic and academia was modified to academia**   
  4.	In the gender column, I modified all the **“Other or prefer not to answer” to “Prefer not to answer”**
- 5.	I modified the race column to “**Race Type**” and named all those that belong to one race “**monoracial**”, those that belong 
-      to two races, “**biracial**” and those that belong to two or more “**multiracial**”
+ 5.	I modified the race column to “**Race Type**” and named all those that belong to one race “**monoracial**”, those that belong to two races, “**biracial**” and those that belong to two or more “**multiracial**”, i did this by creat to ing another column using "**column from examples**" under the "**add column tab**"
  6.	I also put N/A in all the blanks and removed duplicated
  7.	At the end of the data cleaning I had 27832 rows and 15 columns
 
+## Data Exploration and Visualization
+1. I also created some measures to help me add KPIs like "**Row Count**", "**Average Anunal Salary**" to the report.
 
+2. I also added some slicers to be able to easily check correlation between "**Race**" and "**Education**" with "**Salary**"
+
+   ![Ask A ManagerSalarySurvey1](https://github.com/Nkemjika-123/nkemjika-omazi/assets/152037119/8571a7f8-0735-41c3-80cf-cfd0994d3d22)
