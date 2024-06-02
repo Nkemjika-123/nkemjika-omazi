@@ -78,3 +78,10 @@ You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika
 +	For the Monoracial and Multiracial, those with college degrees earned the highest salaries.
 
 ## Recommendations
+Since it was observed that the females stayed longer in the organization, I’ll suggest that the males be given some incentives to encourage them to stay longer. 
+
+## Presentation
+Visualization was done in PowerBi
+
+###
+You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
