@@ -80,10 +80,18 @@ You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika
 +	For the Monoracial and Multiracial, those with college degrees earned the highest salaries.
 
 ## Recommendations
-Since it was observed that the females stayed longer in the organization, I’ll suggest that the males be given some incentives to encourage them to stay longer. 
++ Organization should consider aligning compensation packages and career growth opportunities to match those in high-paying industries.
 
-## Presentation
-Visualization was done in PowerBi
++ Organization should invest in the young employees and provide clear paths for career progression and opportunities for skill enhancement to retain and motivate this age group.
+
++ Organization should develop region-specific salaries and ensure that compensation packages are attractive to retain top talent in key geographical areas.
+
++ Organization should conduct a thorough review of pay structures to address any gender pay gaps and should also support women’s career development.
+
++ Organization should Support employees in pursuing higher education by offering tuition reimbursement programs and flexible work schedules.
+
++ Organization should re-evaluate how experience is rewarded. They should consider introducing experience-based bonuses or longevity incentives.
 
 ###
 You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
+
