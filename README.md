@@ -87,7 +87,6 @@ To prepare dataset for analysis, the data was opened in Excel. This dataset was 
 ![Ask A ManagerSalarySurvey2](https://github.com/Nkemjika-123/nkemjika-omazi/assets/152037119/afe85667-60f2-41de-875e-7c9e159e5705)
 
 You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
-
 ## Analysis and Findings/Insights
 +	Based on the analysis, IPR industry pays the most with an average annual salary of 1M.
 +	Employees between the ages of 21 – 30 had the highest average salary probably because they were more efficient and were promoted more often with pay rise.
