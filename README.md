@@ -67,4 +67,14 @@ To prepare dataset for analysis, the data was opened in Excel. This dataset was 
 ###
 You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
 
-## Insights and Recommendations
+## Analysis and Findings/Insights
++	Based on the analysis, IPR industry pays the most with an average annual salary of 1M.
++	Employees between the ages of 21 – 30 had the highest average salary probably because they were more efficient and were promoted more often with pay rise.
++	Indonesia had the highest average salary, specifically those whose job role was Regional Operations followed by the Researchers.
++	Females had longer years of experience than males.
++	On the average, the men earned more than any other gender followed by the women
++	Majority of the monoracials had college degree as their highest degree gotten.
++	For the Biracials, those which PHD which is the highest level of education, have significantly higher salaries than others and they mostly belong to two races.
++	For the Monoracial and Multiracial, those with college degrees earned the highest salaries.
+
+## Recommendations
