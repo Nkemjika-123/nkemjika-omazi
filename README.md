@@ -95,3 +95,6 @@ You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika
 ###
 You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
 
+### Conclusion
+By addressing these insights through targeted strategies, organizations can enhance their talent management, ensure fair compensation, and foster a more conducive work environment.
+
