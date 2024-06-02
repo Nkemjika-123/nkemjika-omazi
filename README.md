@@ -60,11 +60,13 @@ To prepare dataset for analysis, the data was opened in Excel. This dataset was 
 ## Data Exploration and Visualization
 1. I also created some measures to help me add KPIs like "**Row Count**", "**Average Anunal Salary**" to the report.
 
-2. I also added some slicers to be able to easily check correlation between "**Race**" and "**Education**" with "**Salary**"
+2. I also added some slicers to be able to easily show correlation between "**Race**" and "**Education**" with "**Salary**"
 
    ![Ask A ManagerSalarySurvey1](https://github.com/Nkemjika-123/nkemjika-omazi/assets/152037119/8571a7f8-0735-41c3-80cf-cfd0994d3d22)
 
-###
+
+![Ask A ManagerSalarySurvey2](https://github.com/Nkemjika-123/nkemjika-omazi/assets/152037119/afe85667-60f2-41de-875e-7c9e159e5705)
+
 You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
 
 ## Analysis and Findings/Insights
