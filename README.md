@@ -20,7 +20,7 @@ You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika
 
 [Data Exploration and Visualization](#data-exploration-and-visualization)
 
-[Analysis and Findings and Insights](#analysis-and-findings-and-insights)
+[Analysis and Findings/Insights](#analysis-and-findingsinsights)
 
 [Recommendations](#recommendations)
 
