@@ -7,6 +7,24 @@ Welcome to the **Ask A Manager Salary Survey Analysis** repository. This project
 ###
 You can interact with the report [HERE](https://github.com/Nkemjika-123/nkemjika-omazi/blob/main/Visualization-Salary%20Survey%20Report.pbix)
 
+## Table of Contents
+[Introduction](#introduction)
+
+[Objectives](#objectives)
+
+[Data Source](#data-source)
+
+[Task](#task)
+
+[Data Preparation and Transformation](#data-preparation-and-transformation)
+
+[Data Exploration and Visualization](#data-exploration-and-visualization)
+
+[Analysis and Findings and Insights](#analysis-and-findings-and-insights)
+
+[Recommendations](#recommendations)
+
+[Conclusion](#conclusion)
 
 ## Introduction
 The **Ask A Manager Salary Survey Analysis** project aims to provide valuable insights into salary trends and disparities within the workforce. By examining factors such as age, gender, industry, years of experience, annual salary, educational level and race, this analysis helps organizations make informed decisions regarding compensation, hiring, and diversity initiatives.
@@ -18,7 +36,7 @@ The **Ask A Manager Salary Survey Analysis** project aims to provide valuable in
 
 + Support Decision Making: Provide actionable insights that can aid organizations in developing fair and competitive compensation strategies.
 
-  ## Data Source
+## Data Source
 The data used for this project was from [HERE](https://docs.google.com/spreadsheets/d/1vB5eAhH_93EKUyu-AQHQ68S3ULsEMO3zqkEf1LmIuoU/edit#gid=1625408792)
 
 ## Task
